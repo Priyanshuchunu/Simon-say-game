@@ -5,7 +5,7 @@ I have designed a game called simon say gameusing HTML, CSS and Javascript
 A web-based "Simon Says" game built using vanilla HTML, CSS, and JavaScript. Inspired by the classic memory challenge, this game tests your ability to recall and repeat an ever-growing sequence of colors.
 
 ## 🔗 Live Demo
-[Click to Play](#) <!-- Replace with GitHub Pages or Netlify link -->
+https://priyanshuchunu.github.io/Simon-say-game/ <!-- Replace with GitHub Pages or Netlify link -->
 
 ## 📸 Screenshot
 ![Screenshot 2025-06-28 185355](https://github.com/user-attachments/assets/fc71a1b6-d7ba-4961-a94b-a4ef849e1895)
