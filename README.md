@@ -8,7 +8,8 @@ A web-based "Simon Says" game built using vanilla HTML, CSS, and JavaScript. Ins
 [Click to Play](#) <!-- Replace with GitHub Pages or Netlify link -->
 
 ## 📸 Screenshot
-![Simon Says Game Screenshot](screenshot.png) <!-- Upload and add a real screenshot -->
+![Screenshot 2025-06-28 185355](https://github.com/user-attachments/assets/fc71a1b6-d7ba-4961-a94b-a4ef849e1895)
+<!-- Upload and add a real screenshot -->
 
 ## ✨ Features
 - Interactive color sequence game.
